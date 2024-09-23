@@ -21,8 +21,10 @@ site_author: "Eric MADEC"
 docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
-  - La page d'accueil : index.md
-  - Une page de ressources : ressources.md
+  - Home: index.md
+  - Débuguer: debug.md
+  - Un exercice: exercice1.md
+  - Quelques erreurs: bugs.md
   # Référencer vos autres pages ci-dessus...
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
