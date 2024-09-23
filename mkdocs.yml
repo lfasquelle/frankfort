@@ -88,7 +88,7 @@ extra_css:
   - 'style/extra.css'
 
 extra_javascript:
-  - javascripts/config.js
+  #- javascripts/config.js
   #- javascripts/pyodid.js
   # - xtra/javascripts/interpreter.js
   #- javascripts/repl.js
